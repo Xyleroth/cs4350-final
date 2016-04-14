@@ -22,7 +22,7 @@
 
         <div class="carousel-inner" role="listbox">
             <div class="item active">
-                <img class="first-slide" src="img/call_of_duty_film.png" alt="First slide">
+                <img class="first-slide" src="img/call_of_duty.png" alt="First slide">
                 <div class="container">
                     <div class="carousel-caption text-right">
                         <h1>The Black Cabinet</h1>
@@ -32,7 +32,7 @@
                 </div>
             </div>
             <div class="item">
-                <img class="second-slide" src="img/uncle-sam-sm.png" alt="Second slide">
+                <img class="second-slide" src="img/uncle-sam.png" alt="Second slide">
                 <div class="container">
                     <div class="carousel-caption text-xs-left">
                         <h1>President Jose Wants You!</h1>
@@ -59,18 +59,20 @@
 
     </div>
 
-    <div class="jumbotron main_jumbo">
+   <div class="container-fluid">
 
-        <h1>Main Page</h1>
+       <div class="row main_call">
 
-
-
-
+        <div class="col-sm-4">
 
 
 
-    </div>
 
+        </div>
+
+       </div>
+
+   </div>
 
 
 @endsection
