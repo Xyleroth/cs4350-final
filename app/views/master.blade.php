@@ -9,9 +9,7 @@
 
 </head>
 <body>
-@section('nav')
-
-
+@section('nav)
     @show
 
 
@@ -26,7 +24,7 @@
 
 
 
-@section('footer')
+@section('footer)
     @show
 
 </body>
