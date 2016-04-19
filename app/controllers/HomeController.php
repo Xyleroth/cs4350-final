@@ -23,6 +23,17 @@ class HomeController extends BaseController {
 	}
 	
 	
+	public function view(){
+		
+		
+		
+		
+		
+		
+	}
+	
+	
+	
 	
 	
 	
